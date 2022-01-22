@@ -1,0 +1,10 @@
+Findings from the Prostate cancer excel spreadsheet indicate that as far as the disease itself, Area of the prostate is the most common risk factor. Some of the surprising values are area of:
+1878, 1326, 1264, 1245, 1203, and 1104. 
+Findings from my breast cancer study found a correlation between obesity and cancer deaths. Missippi, the most obese state in the US ranks third for cancer death rates behind Kentucky and Tennessee who also rank top ten in obesity in this country. The other risk factor I linked to breast and prostate cancer(top 2 cancer types) was stress.
+One factor that indicates stress is drug use.
+I cross-referenced the top opioid deaths with the most cancer deaths overall to see if there was a correlation.
+The three most opioid drug death states by overall numbers are California, Florida, and Pennsylvania. 
+The correlation proved my hypothesis correct, the most deaths in the US by state are California, Florida, and New York. New York ranks number 5 in opioid deaths by the CDC and New York is notorious for being a high stress state overall.
+The most interesting findings were that white women have the highest death rates among race given that African American women are statistically more prone to obesity.
+Overall, in order to address cancer statistics adress obesity and the opioid epidemic/propagate natural stress relieving techniques.
+  

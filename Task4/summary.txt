@@ -1,0 +1,4 @@
+Using the Excel spreadsheet, the two elements I focused on were perimeter and concavity mean
+I find a correlation between benign and malignant tumors.
+I found a very interesting statistic. There is benign tumors with concavity of .4 in concavity mean.
+An interesting correlation, the 0.4108 concavity mean had one of the lowest perimeter means so the high concavity balanced out.

@@ -1,0 +1,254 @@
+{
+    "breast_cancer_deaths_by_CDC": [
+        {
+            "State": "Kentucky",
+            "Death Rate": 219.1,
+            "Deaths":9505
+        },
+        {
+            "State":"Tennessee",
+            "Death Rate":210.3,
+            "Deaths":12995
+        },
+        {
+            "State":"Missippi",
+            "Death Rate":208.3,
+            "Deaths":6065
+        },
+        {
+            "State":"Louisiana",
+            "Death Rate":208.6,
+            "Deaths":9249
+        },
+        {
+            "State":"Arkansas",
+            "Death Rate":207.7,
+            "Deaths":6361
+        },
+        {
+            "State":"West Virginia",
+            "Death Rate":207.7,
+            "Deaths":4617
+        },
+        {
+            "State":"Maine",
+            "Death Rate":204.8,
+            "Deaths":3218
+        },
+        {
+            "State":"Alabama",
+            "Death Rate":204.4,
+            "Deaths":9913
+        },
+        {
+            "State":"Indiana",
+            "Death Rate":199.8,
+            "Deaths":12796
+        },
+        {
+            "State":"Delaware",
+            "Death Rate":199.1,
+            "Deaths":1799
+        },
+        {
+            "State":"South Carolina",
+            "Death Rate":198.2,
+            "Deaths":8652
+        },
+        {
+            "State":"Ohio",
+            "Death Rate":198.1,
+            "Deaths":24702
+        },
+        {
+            "State":"Oklahoma",
+            "Death Rate":198,
+            "Deaths":7446
+        },
+        {
+            "State":"Missouri",
+            "Death Rate":198,
+            "Deaths":12419
+        },
+        {
+            "State":"Pennsylvania",
+            "Death Rate":195.6,
+            "Deaths":29616
+        },
+        {
+            "State":"Michigan",
+            "Death Rate":192.6,
+            "Deaths":20094
+        },
+        {
+            "State":"Illinois",
+            "Death Rate":192.1,
+            "Deaths":24250
+        },
+        {
+            "State":"North Carolina",
+            "Death Rate":191.2,
+            "Deaths":16724
+        },
+        {
+            "State":"Nevada",
+            "Death Rate":191,
+            "Deaths":4238
+        },
+        {
+            "State":"Maryland",
+            "Death Rate":190.4,
+            "Deaths":10371
+        },
+        {
+            "State":"Virginia",
+            "Death Rate":190,
+            "Deaths":13877
+        },
+        {
+            "State":"Georgia",
+            "Death Rate":189.9,
+            "Deaths":14358
+        },
+        {
+            "State":"New Hampshire",
+            "Death Rate":189.8,
+            "Deaths":2459
+        },
+        {
+            "State":"Rhode Island",
+            "Death Rate":186.8,
+            "Deaths":2292
+        },
+        {
+            "State":"Oregon",
+            "Death Rate":186.5,
+            "Deaths":7326
+        },
+        {
+            "State":"Massachusetts",
+            "Death Rate":186.3,
+            "Deaths":13182
+        },
+        {
+            "State":"Kansas",
+            "Death Rate":185.6,
+            "Deaths":5428
+        },
+        {
+            "State":"New Jersey",
+            "Death Rate":185,
+            "Deaths":17171
+        },
+        {
+            "State":"Montana",
+            "Death Rate":184.1,
+            "Deaths":1956
+        },
+        {
+            "State":"Iowa",
+            "Death Rate":183.7,
+            "Deaths":6453
+        },
+        {
+            "State":"Wisconsin",
+            "Death Rate":182.8,
+            "Deaths":10943
+        },
+        {
+            "State":"South Dakota",
+            "Death Rate":182.6,
+            "Deaths":1612
+        },
+        {
+            "State":"Washington",
+            "Death Rate":181,
+            "Deaths":11048
+        },
+        {
+            "State":"Texas",
+            "Death Rate":178.9,
+            "Deaths":34291
+        },
+        {
+            "State":"Florida",
+            "Death Rate":178.4,
+            "Deaths":40592
+        },
+        {
+            "State":"Connecticut",
+            "Death Rate":176.8,
+            "Deaths":7052
+        },
+        {
+            "State":"Vermont",
+            "Death Rate":175.9,
+            "Deaths":1202
+        },
+        {
+            "State":"Nebraska",
+            "Death Rate":175.5,
+            "Deaths":3355
+        },
+        {
+            "State":"Idaho",
+            "Death Rate":174.6,
+            "Deaths":2368
+        },
+        {
+            "State":"New York",
+            "Death Rate":173.4,
+            "Deaths":35556
+        },
+        {
+            "State":"Alaska",
+            "Death Rate":171,
+            "Deaths":732
+        },
+        {
+            "State":"North Dakota",
+            "Death Rate":170.5,
+            "Deaths":1302
+        },
+        {
+            "State":"Wyoming",
+            "Death Rate":169.2,
+            "Deaths":886
+        },
+        {
+            "State":"Minnesota",
+            "Death Rate":169,
+            "Deaths":8823
+        },
+        {
+            "State":"California",
+            "Death Rate":168.9,
+            "Deaths":54732
+        },
+        {
+            "State":"Arizona",
+            "Death Rate":164.2,
+            "Deaths":9820
+        },
+        {
+            "State":"New Mexico",
+            "Death Rate":162.9,
+            "Deaths":3141
+        },
+        {
+            "State":"Colorado",
+            "Death Rate":159.7,
+            "Deaths":6395
+        },
+        {
+            "State":"Hawaii",
+            "Death Rate":151.3,
+            "Deaths":2169
+        },
+        {
+            "State":"Utah",
+            "Death Rate":140.9,
+            "Deaths":2520
+        }
+    ]
+}
