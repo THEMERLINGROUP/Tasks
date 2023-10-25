@@ -1,4 +1,7 @@
 from itertools import groupby
+import pandas as pd
+df = pd.read_csv('BreastCancerdata.csv')
+df.describe()
 benign_tumors_perimeter_mean_over_80mm = [{'id':867387, 'Size':102}, {'id':866458, 'Size':99.58}, {'id':86561, 'Size':88.44}, {'id':865468, 'Size':86.1}, {'id':865432, 'Size':94.28}, {'id':86409, 'Size':97.83}, {'id':86408, 'Size':82.15}, {'id':862009, 'Size':86.6}, {'id':861853, 'Size':84.74}, {'id':861648, 'Size':94.57}, {'id':861598, 'Size':95.77},
 {'id':8611161, 'Size':86.49}, {'id':8610908, 'Size':83.19}, {'id':8610629, 'Size':87.91}, {'id':859487, 'Size':81.37}, {'id':857810, 'Size':82.61}, {'id':857373, 'Size':87.21}, {'id':857156, 'Size':86.91}, {'id':854941, 'Size':82.61}, {'id':8510653, 'Size':85.63}, {'id':8510426, 'Size':87.46}, {'id':893526, 'Size':85.69}, {'id':893548, 'Size':82.71}, {'id':89382601, 'Size':92.68}]
 benign_grp = groupby(benign_tumors_perimeter_mean_over_80mm, key=lambda x:x['Size'])
